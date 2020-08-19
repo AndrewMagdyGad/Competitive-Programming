@@ -1,4 +1,4 @@
-package cf_a;
+package cf_b;
 
 /**
  * Online Judge: CodeForces.

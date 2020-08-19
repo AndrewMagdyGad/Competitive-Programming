@@ -1,4 +1,4 @@
-package cf_a;
+package cf_b;
 
 /**
  * Online Judge: CodeForces.
@@ -10,7 +10,6 @@ package cf_a;
 import java.util.Scanner;
 
 public class CF216_D2_B {
-    static int timer;
     static int removedStudents;
     
     public static void main(String[] args) {
