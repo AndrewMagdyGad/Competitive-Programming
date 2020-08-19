@@ -1,5 +1,3 @@
-package cf_a;
-
 /**
  * Online Judge: SPOJ.
  * Problem Name: Aggressive cows.
