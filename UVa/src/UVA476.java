@@ -1,5 +1,3 @@
-package cf_a;
-
 /**
  * Online Judge: UVa.
  * Problem Code: UVA 476.
