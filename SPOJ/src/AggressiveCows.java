@@ -1,5 +1,6 @@
 /**
  * Online Judge: SPOJ.
+ * Problem Code: AGGRCOW.
  * Problem Name: Aggressive cows.
  * Date : 17/07/2020.
  * @author Andrew
@@ -24,7 +25,8 @@ public class AggressiveCows {
             int[] array = new int[n];
             for (int j = 0; j < n; j++)
                 array[j] = Integer.parseInt(reader.readLine());
-            System.out.println(largestMinimumDistance(array, c));
+            out.println(largestMinimumDistance(array, c));
+            out.flush();
         }
     }
 

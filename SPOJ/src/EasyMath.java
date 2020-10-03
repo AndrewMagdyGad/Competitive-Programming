@@ -1,5 +1,6 @@
 /**
  * Online Judge: SPOJ.
+ * Problem Code: EASYMATH.
  * Problem Name: EASY MATH.
  * Date : 19/08/2020.
  * @author Andrew
