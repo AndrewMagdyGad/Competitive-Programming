@@ -1,19 +1,31 @@
+# Codeforces
 Codeforces/out
 Codeforces/.idea
 Codeforces/Codeforces.iml
 
+# UVa
 UVa/out
 UVa/.idea
 UVa/UVa.iml
 
+# SPOJ
 SPOJ/out
 SPOJ/.idea
 SPOJ/SPOJ.iml
 
+# HackerEarth
 HackerEarth/out
 HackerEarth/.idea
 HackerEarth/HackerEarth.iml
 
+# TopCoder
 TopCoder/out
 TopCoder/.idea
 TopCoder/TopCoder.iml
+
+# USACO
+USACO/out
+USACO/.idea
+USACO/USACO.iml
+USACO/*.in
+USACO/*.out
