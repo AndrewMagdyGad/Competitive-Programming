@@ -29,3 +29,13 @@ USACO/.idea
 USACO/USACO.iml
 USACO/*.in
 USACO/*.out
+
+# Timus
+Timus/out
+Timus/.idea
+Timus/Timus.iml
+
+#ICPCLiveArchive
+ICPCLiveArchive/out
+ICPCLiveArchive/.idea
+ICPCLiveArchive/ICPCLiveArchive.iml
